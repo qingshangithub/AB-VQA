@@ -1,4 +1,4 @@
-CUDA_VISIBLE_DEVICES=6 /data/parkyang/pyrun/bin/python3.6 trainer/main.py \
+CUDA_VISIBLE_DEVICES=6 /data/pyrun/bin/python3.6 trainer/main.py \
  --train True \
  --train_img_path /data/disk2/fuwangyi/data/livevqc/video/ \
  --val_img_path /data/disk2/fuwangyi/data/livevqc/video/ \
